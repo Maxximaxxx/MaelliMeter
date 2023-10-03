@@ -1,0 +1,41 @@
+/* Add your CSS styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#textEditor {
+    margin-top: 20px;
+}
+
+#customInput {
+    width: 200px;
+    padding: 5px;
+}
+
+#updateButton {
+    background-color: #333;
+    color: #fff;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
